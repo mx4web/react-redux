@@ -1,7 +1,7 @@
 {
   "name": "reactjs-redux-basics",
   "version": "1.0.0",
-  "description": "Some basic ReactJS",
+  "description": "Some basic ReactJS/Redux",
   "main": "index.js",
   "scripts": {
     "start": "npm run build",
@@ -9,7 +9,7 @@
     "build:prod": "webpack -p && cp src/index.html dist/index.html"
   },
   "keywords": [
-    "reactjs"
+    "Reactjs/Redux"
   ],
   "author": "Michelle",
   "license": "MIT",
